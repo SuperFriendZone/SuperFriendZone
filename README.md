@@ -1,4 +1,3 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/125986143?v=4" width="200" />
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/125986143?v=4" width="200" />
 I'm **Bill_Hub**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
   
